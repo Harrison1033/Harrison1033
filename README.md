@@ -1,9 +1,9 @@
 ### Bem vindo(a) ao meu Github 👋
 
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Estudante da linguagem Java
+- 😄 Gosto muito de aprender coisas novas
+- ⚡ Gosto de fazer novas amizades
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harrison1033&theme=transparent&show_icons=true)
 
