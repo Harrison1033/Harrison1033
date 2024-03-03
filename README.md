@@ -1,5 +1,6 @@
 ## Bem vindo(a) ao meu Github 👋
 
+![snake gif](https://github.com/Harrison1033/Harrison1033/blob/output/github-contribution-grid-snake.gif)
 
 - 📫 Estudante da linguagem Java
 - 😄 Gosto muito de aprender coisas novas
