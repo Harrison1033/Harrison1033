@@ -1,5 +1,9 @@
 ## Bem vindo(a) ao meu Github 👋
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Harrison+de+Oliveira+Rodrigues!;" />
+</h1>
+
 ![snake gif](https://github.com/Harrison1033/Harrison1033/blob/output/github-contribution-grid-snake.gif)
 
 - 📫 Estudante da linguagem Java
