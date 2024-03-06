@@ -11,6 +11,18 @@
 - ⚡ Gosto de fazer novas amizades
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harrison1033&theme=transparent&show_icons=true)
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Harry-Gi" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Harry-Ja" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Harry-Li" height="30" width="40" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Harry-Pg" height="30" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Harry-Sp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img align="center" alt="Harry-Ij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
+  <img align="center" alt="Harry-Ec" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg">
+  <img align="center" alt="Harry-Ec" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg">
+</div>
+
 ##
 <div>  
   <a href="https://www.instagram.com/harrisondeoliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
